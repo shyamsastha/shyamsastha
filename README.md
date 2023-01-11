@@ -13,7 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Sastha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyamsastha&show_icons=true&theme=transparent)
-
-<a href="[Realtime Object Detection](https://github.com/shyamsastha/Realtime-object-detection)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shyamsastha&repo=Realtime-object-detection" />
-</a>
